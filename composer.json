@@ -1,0 +1,17 @@
+{
+    "name": "halyc0n/pg-web-stats",
+    "description": "Web present for pg_stat_statements",
+    "homepage": "https://github.com/halyc0n/pg-web-stats",
+    "keywords": ["laravel", "laravel 5", "pgsql", "postgresql", "ps_stat_statements"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Ivanov",
+            "email": "ivanvpvl@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "minimum-stability": "dev"
+}
