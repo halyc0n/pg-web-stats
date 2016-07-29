@@ -1,4 +1,8 @@
 # pg-web-stats
+[![Latest Stable Version](https://poser.pugx.org/halyc0n/pg-web-stats/v/stable)](https://packagist.org/packages/halyc0n/pg-web-stats)
+[![Code Climate](https://codeclimate.com/github/halyc0n/pg-web-stats/badges/gpa.svg)](https://codeclimate.com/github/halyc0n/pg-web-stats/badges)
+[![Total Downloads](https://poser.pugx.org/halyc0n/pg-web-stats/downloads)](https://packagist.org/packages/halyc0n/pg-web-stats)
+[![License](https://poser.pugx.org/halyc0n/pg-web-stats/license)](https://packagist.org/packages/halyc0n/pg-web-stats)
 
 Laravel package which display total_time and average_time for queries in PostgreSQL.
 
